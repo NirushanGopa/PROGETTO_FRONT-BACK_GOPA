@@ -20,5 +20,14 @@ dopodichè avviare una BASH per importare il dump
 infine IMPORTARE il dump 
 
     mysql -u root -p < /dump/create_employee.sql; exit;
+    
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+METODI UTILIZZATI NEL BACKEND 
+
+GET --> mostra dipendente
+POST --> aggiunge dipendente
+PUT --> modifica dipendente
+DELETE --> elimina dipendente
 
 
